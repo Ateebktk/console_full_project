@@ -1,0 +1,6 @@
+name: calulator
+environment:
+ sdk: '^3.5.0'
+dependencies:
+ pedantic: ^1.11.1
+ lints: ^5.0.0
